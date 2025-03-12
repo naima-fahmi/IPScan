@@ -16,9 +16,12 @@ a) IPScan detects novel IPA events and generates peptide sequences from the newl
 ![IPScan flowchart](https://github.com/user-attachments/files/19214915/Figure1.pdf)
 
 ## Installation
+IPScan is developed using Python3.
+Install the following software pre-requisites:
+    1. python3 packages: itertools, pandas, numpy, collections, multiprocessing, scipy, argparse, os, warnings, and subprocess
+    2. Clone the lastest development version of IPScan from the github repository: git clone https://github.com/naima-fahmi/IPScan.git
 
 ## Usage
-
 IPScan pipeline contains 2 python scripts: \
     1. ipscan.py: can be used in 2 modes: 'single' or 'differential'. Single mode identifies the IPA sites from any given RNA-seq sample, whereas 'differential' mode identifies IPA sites in both conditions, along with measuring the dynamic usage of the detected sites. The unannotated peptide sequences will be generated if the 'Peptides' flag is on.  
     2. make_plots.py: generates the read coverage plots to illustrate the specific IPA event or differential IPA site usage on any given region. 
