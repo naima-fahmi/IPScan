@@ -1,0 +1,27 @@
+2025-03-11 12:50:05,553 - INFO - ----------------------------------------------------------------
+2025-03-11 12:50:05,553 - INFO - | Beginning IPScan Run...                               |
+2025-03-11 12:50:05,553 - INFO - ----------------------------------------------------------------
+
+
+2025-03-11 12:50:05,553 - INFO - ----------------------------------------------------------------
+2025-03-11 12:50:05,553 - INFO - | Configuration File:                                          |
+2025-03-11 12:50:05,553 - INFO - ----------------------------------------------------------------
+2025-03-11 12:50:05,553 - INFO - PARAMETERS
+2025-03-11 12:50:05,553 - INFO - species: hg38
+2025-03-11 12:50:05,553 - INFO - annotation_file: /home/naima/codes/IPScan/generate_peaks_and_motifs/hg38_refseq_2018May1.txt
+2025-03-11 12:50:05,553 - INFO - mode: single
+2025-03-11 12:50:05,553 - INFO - sample1: /home/naima/input/Breast_Cancer_Cell_line/MCF7_mock_torin/RNAseq/STAR_hg38/MCF-7_S3
+2025-03-11 12:50:05,553 - INFO - sample2: /home/naima/input/Breast_Cancer_Cell_line/MCF7_mock_torin/RNAseq/STAR_hg38/MCF-7_Torin_S4
+2025-03-11 12:50:05,553 - INFO - output_dir: /home/naima/codes/IPScan/IPScan_tool/test_out/
+2025-03-11 12:50:05,553 - INFO - cores: 8
+
+2025-03-11 12:50:05,553 - INFO - LOGGING
+2025-03-11 12:50:05,553 - INFO - log_dir: /home/naima/codes/IPScan/IPScan_tool/logs
+
+2025-03-11 12:50:05,553 - INFO - ----------------------------------------------------------------
+
+
+2025-03-11 12:50:05,554 - INFO - ----------------------------------------------------------------
+2025-03-11 12:50:05,554 - INFO - | STEP 1: Detecting IPA events for sample /home/naima/input/Breast_Cancer_Cell_line/MCF7_mock_torin/RNAseq/STAR_hg38/MCF-7_S3...                                  |
+2025-03-11 12:50:05,554 - INFO - ----------------------------------------------------------------
+2025-03-11 12:50:05,920 - INFO - Creating the chromosome dictionary...

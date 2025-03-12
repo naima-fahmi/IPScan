@@ -1,0 +1,30 @@
+2025-03-11 12:52:30,168 - INFO - ----------------------------------------------------------------
+2025-03-11 12:52:30,168 - INFO - | Beginning IPScan Run...                               |
+2025-03-11 12:52:30,168 - INFO - ----------------------------------------------------------------
+
+
+2025-03-11 12:52:30,168 - INFO - ----------------------------------------------------------------
+2025-03-11 12:52:30,168 - INFO - | Configuration File:                                          |
+2025-03-11 12:52:30,168 - INFO - ----------------------------------------------------------------
+2025-03-11 12:52:30,168 - INFO - PARAMETERS
+2025-03-11 12:52:30,168 - INFO - species: hg38
+2025-03-11 12:52:30,168 - INFO - annotation_file: /home/naima/codes/IPScan/generate_peaks_and_motifs/hg38_refseq_2018May1.txt
+2025-03-11 12:52:30,168 - INFO - mode: single
+2025-03-11 12:52:30,168 - INFO - sample1: /home/naima/input/Breast_Cancer_Cell_line/MCF7_mock_torin/RNAseq/STAR_hg38/MCF-7_S3
+2025-03-11 12:52:30,168 - INFO - sample2: /home/naima/input/Breast_Cancer_Cell_line/MCF7_mock_torin/RNAseq/STAR_hg38/MCF-7_Torin_S4
+2025-03-11 12:52:30,168 - INFO - output_dir: /home/naima/codes/IPScan/IPScan_tool/test_out/
+2025-03-11 12:52:30,168 - INFO - cores: 8
+
+2025-03-11 12:52:30,168 - INFO - LOGGING
+2025-03-11 12:52:30,168 - INFO - log_dir: /home/naima/codes/IPScan/IPScan_tool/logs
+
+2025-03-11 12:52:30,169 - INFO - ----------------------------------------------------------------
+
+
+2025-03-11 12:52:30,169 - INFO - ----------------------------------------------------------------
+2025-03-11 12:52:30,169 - INFO - | STEP 1: Detecting IPA events for sample: MCF-7_S3...                                  |
+2025-03-11 12:52:30,169 - INFO - ----------------------------------------------------------------
+2025-03-11 12:52:30,507 - INFO - Creating the chromosome dictionary...
+2025-03-11 12:52:50,970 - INFO - Chromosome dictionary created in 20.46 seconds
+2025-03-11 12:52:50,970 - INFO - Merging the Exon intervals...
+2025-03-11 12:52:51,426 - INFO - Exon intervals merged in 0.46 seconds

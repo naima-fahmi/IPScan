@@ -1,0 +1,29 @@
+2025-03-11 12:48:47,841 - INFO - ----------------------------------------------------------------
+2025-03-11 12:48:47,841 - INFO - | Beginning IPScan Run...                               |
+2025-03-11 12:48:47,841 - INFO - ----------------------------------------------------------------
+
+
+2025-03-11 12:48:47,841 - INFO - ----------------------------------------------------------------
+2025-03-11 12:48:47,841 - INFO - | Configuration File:                                          |
+2025-03-11 12:48:47,841 - INFO - ----------------------------------------------------------------
+2025-03-11 12:48:47,841 - INFO - PARAMETERS
+2025-03-11 12:48:47,841 - INFO - species: hg38
+2025-03-11 12:48:47,841 - INFO - annotation_file: /home/naima/codes/IPScan/generate_peaks_and_motifs/hg38_refseq_2018May1.txt
+2025-03-11 12:48:47,841 - INFO - mode: single
+2025-03-11 12:48:47,841 - INFO - sample1: /home/naima/input/Breast_Cancer_Cell_line/MCF7_mock_torin/RNAseq/STAR_hg38/MCF-7_S3
+2025-03-11 12:48:47,842 - INFO - sample2: /home/naima/input/Breast_Cancer_Cell_line/MCF7_mock_torin/RNAseq/STAR_hg38/MCF-7_Torin_S4
+2025-03-11 12:48:47,842 - INFO - output_dir: /home/naima/codes/IPScan/IPScan_tool/test_out/
+2025-03-11 12:48:47,842 - INFO - cores: 8
+
+2025-03-11 12:48:47,842 - INFO - LOGGING
+2025-03-11 12:48:47,842 - INFO - log_dir: /home/naima/codes/IPScan/IPScan_tool/logs
+
+2025-03-11 12:48:47,842 - INFO - ----------------------------------------------------------------
+
+
+2025-03-11 12:48:47,842 - INFO - ----------------------------------------------------------------
+2025-03-11 12:48:47,842 - INFO - | STEP XXXX: Running IPScan...                                  |
+2025-03-11 12:48:47,842 - INFO - ----------------------------------------------------------------
+2025-03-11 12:48:48,229 - INFO - Creating the chromosome dictionary...
+2025-03-11 12:49:08,668 - INFO - Chromosome dictionary created in 20.44 seconds
+2025-03-11 12:49:08,668 - INFO - Merging the Exon intervals...
