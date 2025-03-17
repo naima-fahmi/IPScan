@@ -10,10 +10,11 @@ IPScan is a robust computational pipeline that can detect the de-novo IPA sites 
 ## IPScan workflow in two scenarios
 IPScan detects two distinct types of IPA events. a) Type-1 (composite): Occurs when the first step of splicing is inhibited, leading to polyadenylation within the downstream intron. b) Type-2 (skipped): Involves the inclusion of a cryptic exon within the downstream intron, which becomes the new 3'-end exon.
 
-![2 types of IPA events](https://github.com/user-attachments/files/19214894/Figure_type12.pdf)
+![2 types of IPA events](https://github.com/naima-fahmi/IPScan/blob/master/Figure_type12.pdf)
 
-a) IPScan detects novel IPA events and generates peptide sequences from the newly identified truncated isoforms. b) The detection and quantification of differential IPA events between two conditions, with coverage plots showing read coverage flanking the IPA sites in both conditions.
-![IPScan flowchart](https://github.com/user-attachments/files/19214915/Figure1.pdf)
+a) IPScan detects novel IPA events and generates peptide sequences from the newly identified truncated isoforms. b) The detection and quantification of differential IPA events between two conditions, with coverage plots showing read coverage flanking the IPA sites in both conditions. 
+
+![IPScan flowchart](https://github.com/naima-fahmi/IPScan/blob/master/Figure_Flowchart.pdf)
 
 ## Installation
 IPScan is developed using Python3. \
